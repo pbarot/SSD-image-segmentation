@@ -1,5 +1,5 @@
 # SSD-image-segmentation
-Implementation of a SSD resnet image segmentation paper
+Implementation of a resnet image segmentation library
 
 * Bounding box based image segmentation
 * feature pyramid network (4 layer CNN) with a network to classify bounding boxes and a second subnet to regress bounding box coordinates
